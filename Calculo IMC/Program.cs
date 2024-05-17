@@ -1,4 +1,5 @@
-﻿
+﻿//By Nate :D
+
 namespace ConvertorIMC
 {
     class Program
@@ -23,7 +24,7 @@ namespace ConvertorIMC
             {
                 Console.WriteLine("Error! Valor invalido");
             }
-            catch (IndexOutOfRangeException)
+            catch (OverflowException)
             {
                 Console.WriteLine("Error! Valor demasiado grande");
             }
