@@ -1,6 +1,6 @@
 ﻿//By Nate :D
 
-namespace ConvertorIMC
+namespace CalculoIMC
 {
     class Program
     {
