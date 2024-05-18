@@ -1,4 +1,4 @@
-﻿//By Nate  :D
+﻿//By Nate :D
 namespace CaculoPropina
 {
     class Program
